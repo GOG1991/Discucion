@@ -66,7 +66,7 @@ WSGI_APPLICATION = 'SistemaDiscusiones.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'baseprueba2',
+        'NAME': 'baseprueba1',
         'USER': 'user2',
         'PASSWORD': 'aBcDe123',
         'HOST': 'localhost',
